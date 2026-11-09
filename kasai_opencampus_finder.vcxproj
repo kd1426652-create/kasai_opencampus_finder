@@ -146,6 +146,7 @@
     <ClCompile Include="auth.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="school_data.cpp" />
+    <ClCompile Include="search.c" />
     <ClCompile Include="search_page.cpp" />
     <ClCompile Include="student_pages.cpp" />
     <ClCompile Include="ui_helper.cpp" />
@@ -153,6 +154,7 @@
   <ItemGroup>
     <ClInclude Include="auth.h" />
     <ClInclude Include="school_data.h" />
+    <ClInclude Include="search.h" />
     <ClInclude Include="search_page.h" />
     <ClInclude Include="student_pages.h" />
     <ClInclude Include="ui_helper.h" />
