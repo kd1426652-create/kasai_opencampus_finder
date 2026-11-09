@@ -50,5 +50,11 @@
     <ClInclude Include="student_pages.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
+    <ClInclude Include="students_pages.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="student_pages" />
   </ItemGroup>
 </Project>

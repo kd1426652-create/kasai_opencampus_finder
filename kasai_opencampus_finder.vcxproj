@@ -154,8 +154,12 @@
     <ClInclude Include="auth.h" />
     <ClInclude Include="school_data.h" />
     <ClInclude Include="search_page.h" />
+    <ClInclude Include="students_pages.h" />
     <ClInclude Include="student_pages.h" />
     <ClInclude Include="ui_helper.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="student_pages" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
