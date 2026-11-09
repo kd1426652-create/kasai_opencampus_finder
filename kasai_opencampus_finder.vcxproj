@@ -156,7 +156,6 @@
     <ClInclude Include="search_page.h" />
     <ClInclude Include="student_pages.h" />
     <ClInclude Include="ui_helper.h" />
-    <ClInclude Include="ヘッダー.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
