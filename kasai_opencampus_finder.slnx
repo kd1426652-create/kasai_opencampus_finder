@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="kasai_opencampus_finder.vcxproj" />
+  <Project Path="kasai_opencampus_finder.vcxproj" Id="8bdecc1d-789b-4686-a26a-d5cf87e0b192" />
 </Solution>
