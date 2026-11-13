@@ -1,5 +1,7 @@
 #pragma once
 // --- school_data.h -----1
+
+
 #ifndef SCHOOL_DATA_H
 #define SCHOOL_DATA_H
 
@@ -18,3 +20,4 @@ struct School {
     float rating;
 };
 #endif
+std::vector<School> GetDefaultSchools();
